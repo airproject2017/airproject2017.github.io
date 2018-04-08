@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Buttons
-permalink: /Buttoms/
+title: Button
+permalink: /Button/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
